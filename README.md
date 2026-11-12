@@ -1,0 +1,2 @@
+# NETWORKWALKS-BHAKTI-WK2-PM1-ZENMAP-NETWORK-SCANNING
+Week 2 Cybersecurity Internship – WHOIS, WhatWeb, NSLOOKUP, CURL, DNSRecon, WAFW00F and Zenmap.
